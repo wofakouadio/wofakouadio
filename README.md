@@ -6,6 +6,13 @@
 - 💞️ I’m looking to collaborate on any projects in PHP, JavaScript, Laravel, WordPress
 - 📫 How to reach me : kouamekouadiofrancisbennett@gmail.com
 
+### Languages and Tools
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+          
+          
+          
+          
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=wofakouadio&rank=SSS,SS,S,AAA,AA,A,B,C&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wofakouadio&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) 

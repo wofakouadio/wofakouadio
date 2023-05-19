@@ -6,12 +6,11 @@
 - 💞️ I’m looking to collaborate on any projects in PHP, JavaScript, Laravel, WordPress
 - 📫 How to reach me : kouamekouadiofrancisbennett@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wofakouadio&rank=SSS,SS,S,AAA,AA,A,B,C&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wofakouadio&rank=SSS,SS,S,AAA,AA,A,B,C&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wofakouadio&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wofakouadio&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wofakouadio&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wofakouadio&count_private=true&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com?user=wofakouadio&theme=one-dark-pro&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 wofakouadio/wofakouadio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

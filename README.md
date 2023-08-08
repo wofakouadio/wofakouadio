@@ -1,10 +1,11 @@
 ![FRANCIS BENNETH 3](https://user-images.githubusercontent.com/80703649/237035783-34de678d-17ac-48ae-8259-29c5f1bccb5e.jpg)
 - ![](https://komarev.com/ghpvc/?username=wofakouadio&style=flat-square)
-- 👋 Hi, I’m @wofakouadio
+- 👋 Hi, I’m Francis Bennett
 - 👀 I’m interested in team projects and freelancing job
 - 🌱 I’m currently a full stack Web Dev and also learning new techs and techniques to enhance my skills
 - 💞️ I’m looking to collaborate on any projects in PHP, JavaScript, Laravel, WordPress
 - 📫 How to reach me : kouamekouadiofrancisbennett@gmail.com
+- 👉 Visit my portfolio for more information https://wofakouadio.github.io
 
 ### Languages and Tools
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /><img  height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
